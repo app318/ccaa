@@ -26,13 +26,3 @@ Linux + Caddy + Aria2 + AriaNg，实现离线下载、文件管理、在线播�
 ![](https://imgurl.org/upload/1810/e8bf5842058b46c5.png)
 
 ![](https://imgurl.org/upload/1810/1180fb03eb3117ce.png)
-
-### 联系我
-
-* Blog: [https://www.xiaoz.me/](https://www.xiaoz.me/)
-* QQ: 337003006
-* 技术交流群: 147687134
-
-### 请我喝一杯咖啡
-
-![](https://imgurl.org/upload/1712/cb349aa4a1b95997.png)
